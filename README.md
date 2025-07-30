@@ -1,16 +1,28 @@
-# untitled8
+# 🎓 CRUD Firebase Flutter – Aplikasi Data Mahasiswa
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-RealtimeDB-orange?logo=firebase)
 
-## Getting Started
+Aplikasi CRUD sederhana menggunakan **Flutter** dan **Firebase Realtime Database** untuk mengelola data **mahasiswa**.  
+Cocok untuk pemula yang ingin belajar integrasi Firebase dengan Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Tambah data mahasiswa
+- 📋 Tampilkan daftar mahasiswa
+- ✏️ Edit data mahasiswa
+- 🗑️ Hapus data mahasiswa
+- 🔄 Sinkronisasi real-time dengan Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Teknologi
+
+- [Flutter](https://flutter.dev/) 3.x
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
+- `firebase_core`
+- `firebase_database`
+
+---
