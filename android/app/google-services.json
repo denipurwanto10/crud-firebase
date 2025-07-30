@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894848199375",
+    "project_id": "mahasiswa-fb671",
+    "storage_bucket": "mahasiswa-fb671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894848199375:android:affe27f6fe5fcdbb2625ba",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCxeQDy1KZ6PII1CTDe64YYaRKktviasg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
